@@ -1,3 +1,3 @@
-# 激光熔覆过程中纯铁金属玻璃的原子尺度结构演变
-数据代码共享
+# Atomic-scale structural evolution of elemental Fe metallic glass during laser cladding
+Data Code Sharing
 Data and code for the amorphous alloy project simulation process
