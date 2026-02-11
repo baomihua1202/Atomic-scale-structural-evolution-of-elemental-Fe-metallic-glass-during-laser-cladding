@@ -1,2 +1,3 @@
-# Atomic-scale-structural-evolution-of-elemental-Fe-metallic-glass-during-laser-cladding
-Data Code Sharing
+# 激光熔覆过程中纯铁金属玻璃的原子尺度结构演变
+数据代码共享
+这个是非晶合金项目模拟过程的数据和代码
